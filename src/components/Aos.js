@@ -44,15 +44,7 @@ export default function Aos() {
       <div className="item" data-aos="flip-left">
         11
       </div>
-      <div className="item" data-aos="fade-up">
-        12
-      </div>
-      <div className="item" data-aos="fade-down">
-        13
-      </div>
-      <div className="item" data-aos="fade-right">
-        14
-      </div>
+      
     </div>
   );
 }
